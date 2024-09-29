@@ -5,7 +5,6 @@ import { Link } from "react-router-dom";
 
 import { BrowserRouter } from "react-router-dom";
 import styled from "styled-components";
-import { style } from "framer-motion/client";
 import { GiKnifeFork } from "react-icons/gi";
 
 function App() {
